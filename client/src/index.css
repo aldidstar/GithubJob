@@ -1,0 +1,178 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#navbar-text {
+  color: white;
+  margin-left: 40%;
+}
+
+#photo {
+  /* color: white; */
+  height: 15rem;
+  width: 14rem;
+}
+#plus {
+  height: 5px;
+}
+
+#btn-detail {
+  margin-top: 1rem;
+}
+
+#text-detail {
+  margin-top: 0.5rem;
+}
+
+#row {
+  border: 1px solid black;
+  padding-bottom: 1%;
+  margin-top: 2rem;
+  margin-left: 3rem;
+  width: 45rem;
+}
+
+#form-add {
+  width: 90%;
+  border: 1px solid blue;
+  margin-left: 4rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+#text-add {
+  width: 100%;
+  background-color: blue;
+  color: white;
+}
+
+#btn {
+  margin-left: -37rem;
+  margin-bottom: 1rem;
+}
+
+#input-add {
+  margin-right: 2rem;
+  margin-top: 1rem;
+}
+
+#btn-add {
+  margin-left: -60rem;
+  margin-top: 3rem;
+}
+
+#text-btn {
+  text-decoration: none;
+  color: white;
+}
+
+#detail-text {
+  margin-left: 2rem;
+  border: 1px solid rgb(209, 206, 206);
+  padding: 1rem;
+  margin-bottom: 2rem;
+  height: 35rem;
+  background-color: rgb(236, 233, 233);
+  margin-right: 10rem;
+}
+
+#img-detail {
+  margin-left: 5rem;
+  height: 500px;
+  width: 25rem;
+}
+
+#detail-product {
+  margin-top: 4rem;
+}
+#brand {
+  color: blue;
+  margin-top: -2rem;
+}
+
+#text-price {
+  text-align: left;
+}
+
+#price-tag {
+  text-align: left;
+  margin-top: -3rem;
+}
+
+#input-qty {
+  margin-top: -1rem;
+  /* margin-top: -50rem; */
+  width: 34%;
+  text-align: left;
+  height: 2rem;
+  margin-left: -11rem;
+}
+
+#input-plus {
+  margin-left: -27rem;
+}
+
+#btn-buy {
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+  width: 100%;
+}
+
+#text-qty {
+  margin-bottom: -1rem;
+
+  text-align: left;
+}
+#input-color {
+  margin-top: -1rem;
+  /* margin-top: -50rem; */
+  width: 15%;
+  text-align: center;
+  height: 2rem;
+  margin-left: 1rem;
+}
+#input-capacity {
+  margin-top: -1rem;
+  /* margin-top: -50rem; */
+  width: 15%;
+  text-align: center;
+  height: 2rem;
+  margin-left: 1rem;
+}
+
+#detail-desc {
+  margin-top: 3rem;
+  border-bottom: 1px solid black;
+  margin-left: 3rem;
+  width: 90%;
+  text-align: justify;
+}
+
+#desc-detail {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  margin-left: 3rem;
+  width: 90%;
+  text-align: justify;
+}
+
+#list-detail {
+  margin-bottom: 2rem;
+  margin-left: 2rem;
+  text-align: left;
+}
+
+#btn-cancelBuy {
+  margin-top: -2rem;
+  width: 100%;
+}
